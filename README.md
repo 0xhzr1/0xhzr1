@@ -9,9 +9,9 @@
 
   <!-- Badges -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Edogax&label=Visitas&color=f0db4f&style=flat-square" alt="Visitas al perfil"/>
-    <img src="https://img.shields.io/github/followers/Edogax?label=Seguidores&style=flat-square&color=f0db4f" alt="Seguidores"/>
-    <img src="https://img.shields.io/github/stars/Edogax?label=Estrellas&style=flat-square&color=f0db4f" alt="Estrellas"/>
+    <img src="https://komarev.com/ghpvc/?username=0xhzr1&label=Visitas&color=f0db4f&style=flat-square" alt="Visitas al perfil"/>
+    <img src="https://img.shields.io/github/followers/0xhzr1?label=Seguidores&style=flat-square&color=f0db4f" alt="Seguidores"/>
+    <img src="https://img.shields.io/github/stars/0xhzr1?label=Estrellas&style=flat-square&color=f0db4f" alt="Estrellas"/>
   </p>
 
 </div>
