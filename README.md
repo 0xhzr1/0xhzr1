@@ -48,14 +48,14 @@ Learning through labs, hands-on practice and building small tools.
   <!-- Programming -->
   <h3> Programming</h3>
 
-  <img src="https://skillicons.dev/icons?i=python,rust,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=c,python,bash,powershell" />
 
   <br/><br/>
 
   <!-- Operating Systems -->
   <h3> Operating Systems</h3>
 
-  <img src="https://skillicons.dev/icons?i=linux,windows,kali" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,arch linux,kali" />
 
   <br/><br/>
 
